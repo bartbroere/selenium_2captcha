@@ -1,7 +1,7 @@
-## selenium_2captcha
+# selenium_2captcha
 Captcha solving by 2captcha.com integrated in the selenium testing framework
 
-# Usage
+## Usage
 ```python
 import selenium_2captcha
 from selenium import webdriver
